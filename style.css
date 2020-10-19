@@ -45,11 +45,10 @@ nav ul li
 {
     font-size: 20px;
     font-weight: 500;
-    width: 190px;
-    height: 20vh;
+	padding: 1em;
     display: flex;
     align-items: center;
-    justify-content: center;
+	justify-content: center;
 }
 
 nav ul li:hover
